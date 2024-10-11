@@ -9,4 +9,4 @@
 |[김수인](https://github.com/lsuinl)|[김효선](https://github.com/hy5sun)|[오현의](https://github.com/hyunyeee)|
  
 # 👉 Notion
-[프로젝트 상세정보](https://www.notion.so/Cat-Running-9ce8a711353045f7a356f7794ee59c65)
+[프로젝트 상세정보](https://curious-willow-945.notion.site/Cat-Running-9ce8a711353045f7a356f7794ee59c65?pvs=4)
